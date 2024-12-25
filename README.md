@@ -1,4 +1,4 @@
-# framespace
+# Framespace
 
 Framespace was a project I have been working on for a while. You can make websites and export them as pages.
 
