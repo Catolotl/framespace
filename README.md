@@ -6,7 +6,7 @@ Framespace was a project I have been working on for a while. You can make websit
 1) Create Elements to your website
 2) Drag and drop functionality
 3) Create and export pages
-4) Edit text
+4) Edit text and other UI
 
 # Warning
 
